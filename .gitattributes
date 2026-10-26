@@ -1,0 +1,5 @@
+# Keep application assets directly in Git, without requiring Git LFS.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.woff2 binary

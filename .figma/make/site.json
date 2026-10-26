@@ -1,0 +1,10 @@
+{
+  "description": "A touch-friendly smashburger kiosk for browsing menus, customizing meals, managing a cart, and simulating order confirmation for in-store diners.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
